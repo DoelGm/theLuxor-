@@ -1,0 +1,16 @@
+section{
+    background-color: #1A1A1A;
+    color: #FFFFFF;
+    padding: 20px;
+}
+.welcome-text{
+    border: #FFFFFF 2px solid;
+    text-align: justify;
+    padding: 20px;
+    box-shadow: 0px 0px 15px #FFFFFF;
+}   
+.welcome-text h1{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 80px;
+}
