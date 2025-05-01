@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  h1, h2 {
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  h3 {
+    font-family: 'Bebas Neue', sans-serif;
+  }
+  
+  p {
+    font-family: 'Lato', sans-serif;
+  }
+  
+  /* Alternativamente */
+  .alt-style {
+    font-family: 'Poppins', sans-serif;
+  }
+  
