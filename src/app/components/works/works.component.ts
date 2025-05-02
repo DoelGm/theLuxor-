@@ -22,7 +22,7 @@ export class WorksComponent {
     },
     {
       title: 'Carpinteria',
-      description: '',
+      description: 'Transformamos esta cocina con una elegante encimera de granito negro, grifería de diseño contemporáneo y acabados minimalistas. Espacios funcionales, materiales de alta calidad y un estilo sofisticado que eleva el valor y la estética del hogar',
       imageUrl: 'assets/imgs/proyecto2.jpg'
     }
   ];
