@@ -1,0 +1,45 @@
+.full-width-section {
+    background-color: #1A1A1A;
+    color: #FFFFFF;
+    padding: 80px 0;
+    width: 100vw;
+    margin: 0;
+    position: relative;
+    left: 0;
+  }
+  section h2{
+    font-size: 2.7rem;
+    margin-bottom: 1rem;
+  }
+  section p{
+    font-size: 1.3rem;
+    line-height: 1;
+    color: #FFFFFF;
+  }  
+  section h3{
+    font-size: 2.7rem;
+    margin-bottom: 1rem;
+    color: rgb(227, 97, 27);
+  }
+  .card-stadistics {
+    border: 2px solid #a5993a; /* Borde inicial */
+    background-color: #2A2A2A;
+    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease; /* Añadido box-shadow */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    flex: 1 1 calc(33.333% - 40px); /* 3 columnas con espacio entre ellas */
+    box-sizing: border-box;
+    min-height: 200px;
+    justify-content: center;
+  
+  }
+  
+  .card-stadistics:hover {
+    border-color: #d1fd0d; /* Borde azul en hover */
+    transform: scale(1.05); /* Agranda ligeramente */
+    box-shadow:  1px 2px 20px 10px rgba(130, 123, 8, 0.8); /* Sombra blanca brillante con efecto neón */
+  }
+  
+  
