@@ -22,3 +22,13 @@ section{
     object-fit: contain;
     background-color: #1A1A1A;
   }
+
+  @media  (max-width: 540px) {
+    .carousel {
+       display: none;
+    }
+    .welcome-text h1{
+        color: #FFFFFF;
+        font-size: 60px;
+    }
+  }
